@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Hasklig-Black";
+    src: url("../fonts/Hasklig/Hasklig-Black.otf") format("opentype");
+    }
+
+@font-face {
+    font-family: "Hasklig-SemiBold";
+    src: url("../fonts/Hasklig/Hasklig-Semibold.otf") format("opentype");
+    }
